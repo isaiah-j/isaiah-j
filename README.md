@@ -1,7 +1,5 @@
 ### Hi there, I'm Isaiah - [portfolio] 👋
 
-## I'm a developer, designer and forever learner!
-
 - 🌱 I’m currently learning AWS and Rust
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and fish
