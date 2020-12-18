@@ -1,5 +1,7 @@
 ### Hi there, I'm Isaiah - [portfolio] 👋
 
+I'm a software engineer looking to make the lives of other people easier and more productive with the software I write
+
 - 🌱 I’m currently learning AWS and Rust
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and fish
